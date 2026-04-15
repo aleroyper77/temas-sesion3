@@ -1,2 +1,3 @@
 # temas-sesion3
-readme retocado
+alejandro royo está realizando cambios
+cambio para comitear

@@ -27,7 +27,8 @@ Clona un repositorio de prueba o utiliza uno que ya tengas. Después, ejecuta el
 ## Ejercicio 3. Git Stash
 
 Realiza cambios en uno o varios archivos de tu repositorio sin hacer commit. Después, guarda temporalmente esos cambios con `git stash`. Comprueba que el directorio de trabajo queda limpio y, a continuación, recupera los cambios guardados. Explica para qué puede resultar útil esta herramienta en un entorno colaborativo.
-
+RESPUESTA:
+el stash va bien si se necesitas cambiar de rama o arreglar un bug urgente
 ---
 
 ## Ejercicio 4. Rebase
